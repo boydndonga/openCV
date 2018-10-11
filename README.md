@@ -64,3 +64,6 @@ expect an output similar to this.
  test by launching image
  
  > ./a/out theimage.extension
+ 
+ ### installing using pip
+ [follow this giude to install with pip](https://pypi.org/project/opencv-python/)
